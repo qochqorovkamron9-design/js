@@ -5,3 +5,4 @@ const bool = true;
 
 console.log(typeof num, typeof str, typeof bool);
 
+
