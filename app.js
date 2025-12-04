@@ -1,19 +1,13 @@
-// let num = 2;
-// let str = "Hello";
-// const bool = true;
+let x = 0.54;
+let y = 0.09;
+let z = 1.64;
 
-
-// console.log(typeof num, typeof str, typeof bool);
-
-let x = 10;
-let y = 20;
-
-if (x == y){
-    console.log("x is equal to y");
+if (x >= 1 && x <= 3) {
+    console.log(x);
 }
-else if (x > y){
-    console.log("x is greater than y");
+if (y >= 1 && y <= 3) {
+    console.log(y);
 }
-else {
-    console.log("x is less than y");
+if (z >= 1 && z <= 3) {
+    console.log(z);
 }
